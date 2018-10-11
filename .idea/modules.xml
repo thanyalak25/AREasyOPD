@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AREasyOPD.iml" filepath="$PROJECT_DIR$/AREasyOPD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity_android_bridge/unity_android_bridge.iml" filepath="$PROJECT_DIR$/unity_android_bridge/unity_android_bridge.iml" />
+    </modules>
+  </component>
+</project>

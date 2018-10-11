@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/build/intermediates/pre-dexed/debug/VuforiaUnityPlayer_90770d54cae43d69d400b78884892072bbd88c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b375a689c4555d10c4706d2110f5c9913a6c4a59">
+        <dex dex="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/build/intermediates/pre-dexed/debug/unity-classes_f449f0fbec22c5ab28d94cbf48fdda50e34a9ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="/Users/baibaifernfern/Desktop/AREasyOPD_Android/AREasyOPD/build/intermediates/pre-dexed/debug/Vuforia_56fa4f0fa966f779f0f008cc01fc79aac9f6895e.jar" />
+    </item>
+
+</items>

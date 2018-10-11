@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: unity_android_bridge:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b6bbecfbaac92c5cff3a1d615b047278c9e296eb/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b6bbecfbaac92c5cff3a1d615b047278c9e296eb/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

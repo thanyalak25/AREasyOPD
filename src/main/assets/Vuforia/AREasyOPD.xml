@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="room27" size="10.000000 5.620609" />
+    <ImageTarget name="room26" size="10.000000 5.620609" />
+    <ImageTarget name="room23" size="10.000000 5.620609" />
+    <ImageTarget name="room22" size="10.000000 5.620609" />
+    <ImageTarget name="room21" size="10.000000 5.620609" />
+    <ImageTarget name="room33" size="10.000000 5.620609" />
+    <ImageTarget name="room10" size="10.000000 5.620609" />
+    <ImageTarget name="room9" size="10.000000 5.620609" />
+    <ImageTarget name="room8" size="10.000000 5.620609" />
+    <ImageTarget name="room7" size="10.000000 5.620609" />
+    <ImageTarget name="room6" size="10.000000 5.620609" />
+    <ImageTarget name="room5" size="10.000000 5.620609" />
+    <ImageTarget name="room4" size="10.000000 5.620609" />
+    <ImageTarget name="room3" size="10.000000 5.620609" />
+    <ImageTarget name="room101" size="10.000000 5.620609" />
+    <ImageTarget name="room2" size="10.000000 5.620609" />
+    <ImageTarget name="room1" size="10.000000 5.620609" />
+  </Tracking>
+</QCARConfig>
